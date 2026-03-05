@@ -1,1 +1,5 @@
-# max3
+
+# 14-2_APP_CREATE_C
+    
+## NAME:鄒閔旭
+## SID:C112181141
